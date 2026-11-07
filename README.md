@@ -10,6 +10,7 @@ Capacitación en ChatGPT y Claude, con lenguaje sencillo y ejercicios con datos 
 - [Privacidad y publicación](contenidos/privacidad.md)
 - [Skill de acompañamiento](skills/ensenar-agentes-ia/SKILL.md)
 - [Portada web](docs/index.html)
+- [Quién soy · Ayelén Pezzetto](docs/quien-soy.html)
 
 ## Cómo usarlo
 
